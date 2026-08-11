@@ -8,7 +8,7 @@ güvenlik olayı analizi** katmanı ekler (yasak bölge ihlali, sahipsiz nesne, 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.9%2B-green)
-![Tests](https://github.com/KULLANICI_ADIN/hedef-tespit-sistemi/actions/workflows/ci.yml/badge.svg)
+![Tests](https://github.com/baranakbaba/hedef-tespit-sistemi/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## 📌 Proje Hakkında
