@@ -154,7 +154,7 @@ Aşağıda sistemin bir test görüntüsü üzerindeki çıktısı gösterilmekt
 ## 🔧 Kurulum
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/hedef-tespit-sistemi.git
+git clone https://github.com/baranakbaba/hedef-tespit-sistemi.git
 cd hedef-tespit-sistemi
 python -m venv venv
 venv\Scripts\activate          # Windows
