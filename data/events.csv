@@ -1,0 +1,4 @@
+timestamp,video_saniye,event_type,severity,class_name,track_id,description
+2026-08-12T00:33:38,0.0,ZONE_IHLALI,KRITIK,person,1,Kisi #1 yasak bolgeye girdi
+2026-08-12T00:33:38,3.0,UZUN_SURE_BEKLEME,UYARI,person,1,Kisi #1 3 saniyedir alanda
+2026-08-12T00:34:31,0.0,ZONE_IHLALI,KRITIK,person,1,Kisi #1 yasak bolgeye girdi
