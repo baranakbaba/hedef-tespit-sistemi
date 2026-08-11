@@ -9,7 +9,7 @@ Kullanim:
     python src/detect.py --source 0                       # webcam
     python src/detect.py --source video.mp4 --output out.mp4
 
-Yazar: (Adini buraya ekle)
+Yazar: (KadirBaranAkbaba)
 """
 
 import argparse
